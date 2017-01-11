@@ -1,7 +1,7 @@
 /**index.wxss**/
 .content{
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	align-items: left;
 	font-size: 14px;
 }
